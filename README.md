@@ -1,4 +1,4 @@
- ## Oii! Eu sou a zMiuMiu 💕
+ ## Oii! Eu sou a Miu 💕
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zMiuMiu&show_icons=true&theme=omni)
